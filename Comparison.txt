@@ -1,0 +1,7 @@
+In my implementation of the binary search tree I used the "AVL" and "Treap" tree methods.
+
+For the "Put" method I tested adding integers to each tree:
+	By comparing the graphs I generated I found that the AVL tree was more efficient time-wise.
+For the "Remove" method I tested by removing integers from each tree:
+	From my comparison I found the Treap tree was slightly more efficiend than the AVL tree,
+	they both had similar trends but the dips in time needed showed the Treap tree would be the better choice for deleting in this instance.
